@@ -82,7 +82,7 @@ digitalWrite(10, HIGH);
 }
 
 void setup() {
-  for (int i = 2; i<=10; i++){
+  for (int i = 2; i<=13; i++){
   pinMode(i, OUTPUT);
   digitalWrite(2, HIGH);}}
 
